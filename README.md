@@ -1,0 +1,2 @@
+# GITIDEATest
+这是一共在idea上测试git的demo
